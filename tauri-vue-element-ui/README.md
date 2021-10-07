@@ -4,6 +4,8 @@
 
 下载后运行
 ```node
+yarn install
+
 vue add tauri
 
 yarn tauri:serve
